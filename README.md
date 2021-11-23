@@ -1,12 +1,21 @@
-# Files
-[![Packaging status](https://repology.org/badge/tiny-repos/elementary-files.svg)](https://repology.org/metapackage/pantheon-files)
-[![Translation status](https://l10n.elementary.io/widgets/files/-/svg-badge.svg)](https://l10n.elementary.io/projects/files/?utm_source=widget)
+# Next Files is a fork of the elementary OS Files app
 
 ![Files Screenshot](data/screenshot-grid.png?raw=true)
 
+## Branches
+
+The project uses the following branches:
+
+ - The `main` branch. This is our default branch and is the base branch for PRs and code commits.
+ - The `vendor` branch is kept up-to-date with the elementary OS Files app `master` branch.
+
+We will create other branches as we go for PRs and feature requests.
+
+Contributions are very welcome!
+
 ## Building, Testing, and Installation
 
-You'll need the following dependencies:
+You will need the following dependencies:
 * meson
 * valac
 * libcanberra-dev
