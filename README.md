@@ -1,4 +1,6 @@
-# Next Files is a fork of the elementary OS Files app
+# Next Files
+
+Next Files is a fork of the elementary OS Files app
 
 ![Files Screenshot](data/screenshot-grid.png?raw=true)
 
